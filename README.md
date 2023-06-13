@@ -1,10 +1,10 @@
 # Project Title
 
-A brief description of what this project does and who it's for \n
+A brief description of what this project does and who it's for<br>
 [http://logo_link](http://logo_link)
 
 ## Badges
-Include some badges such as build status, test coverage, etc. \n
+Include some badges such as build status, test coverage, etc.<br>
 [http://badge_link](http://badge_link)
 
 ## Features
